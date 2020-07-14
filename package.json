@@ -1,0 +1,27 @@
+{
+  "name": "Build-Node.js-User-Authentication---Password-Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foysalious/Build-Node.js-User-Authentication---Password-Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foysalious/Build-Node.js-User-Authentication---Password-Login/issues"
+  },
+  "homepage": "https://github.com/Foysalious/Build-Node.js-User-Authentication---Password-Login#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
